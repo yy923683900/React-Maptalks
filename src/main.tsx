@@ -1,6 +1,6 @@
 import "./index.css";
-import "@maptalks/gltf-layer";
 import "@maptalks/transcoders.draco";
+import "@maptalks/gltf-layer";
 import "maptalks/dist/maptalks.css";
 
 import App from "./App";
