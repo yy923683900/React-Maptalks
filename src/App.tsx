@@ -54,7 +54,7 @@ function App() {
     const gltf = new GLTFLayer("gltf");
     const position = map.getCenter();
     const symbol = {
-      url: "pyramid",
+      url: "/resources/car.gltf",
     };
     const markers = [];
     for (let i = 0; i < 3; i++) {
