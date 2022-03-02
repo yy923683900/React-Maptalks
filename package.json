@@ -10,7 +10,7 @@
   "dependencies": {
     "@maptalks/gl": "^0.67.1",
     "@maptalks/gltf-layer": "^0.33.1",
-    "@maptalks/transcoders.draco": "^0.67.2",
+    "@maptalks/transcoders.draco": "^0.67.4",
     "@maptalks/vt": "^0.62.0",
     "maptalks": "^1.0.0-beta.10",
     "react": "^17.0.2",
